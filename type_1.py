@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "###"
 
 print("Hi there, how can I be of service?")
 command = input("Ask here... ")

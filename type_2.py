@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "###"
 messages = []
 
 system_msg = input("What type of assistant would you like to have? (describe the bots emotion and character)\n")
